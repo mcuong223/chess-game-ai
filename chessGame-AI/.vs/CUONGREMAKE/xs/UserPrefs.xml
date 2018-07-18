@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{62E83772-B93E-9D29-CAF9-351920E60A1A}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Resources/Scripts/GamePlayManager.cs" Line="117" Column="41" />
+      <File FileName="Assets/Resources/Scripts/GameManager.cs" Line="26" Column="29" />
+      <File FileName="Assets/Resources/Scripts/AI_Script.cs" Line="595" Column="5" />
+      <File FileName="Assets/Resources/Scripts/Board.cs" Line="59" Column="17" />
+      <File FileName="Assets/Resources/Scripts/Cell.cs" Line="44" Column="21" />
+      <File FileName="Assets/Resources/Scripts/Enums.cs" Line="22" Column="13" />
+      <File FileName="Assets/Resources/Scripts/GameState.cs" Line="19" Column="24" />
+      <File FileName="Assets/Resources/Scripts/Piece.cs" Line="21" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
